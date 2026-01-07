@@ -1,6 +1,6 @@
 name: arc_progress_ring
 description: A highly customizable circular progress indicator with milestone markers, glassmorphic effects, and smooth animations for Flutter.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Sanaullah49/arc_progress_ring
 repository: https://github.com/Sanaullah49/arc_progress_ring
 issue_tracker: https://github.com/Sanaullah49/arc_progress_ring/issues
